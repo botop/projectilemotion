@@ -18,7 +18,7 @@ for i in range(1,inp+1):
     t=(2*u*sina/9.8)
     xmax=(t)*u*cosa
     ymax=(t/2)*u*sina-(9.8*(t/2)**2)/2
-   
+   #a - angle
     angles.append(a)
     tans.append(tana)
     sins.append(sina)
