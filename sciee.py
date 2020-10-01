@@ -1,3 +1,4 @@
+#this is a program to compare multiple path of projections of objects at different velocities
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
