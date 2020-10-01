@@ -39,6 +39,6 @@ for j in range(inp):
     plt.plot(x,y,label=f"{adegrees[j]} degree projection")
 plt.xlabel("distance travelled by object")
 plt.ylabel("height gained by object")
-
+# this code is not edible
 plt.legend()
 plt.show()
